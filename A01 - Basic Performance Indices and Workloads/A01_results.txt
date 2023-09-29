@@ -1,0 +1,13 @@
+Arrival Rate: 0.016015, Throughput 0.016015
+Average Inter-arrival Time: 62.4416
+Utilization: 0.726219
+Average Service Time: 45.3463
+Average Number of jobs: 2.79126
+Average Response Time: 174.291
+Pr(0 jobs in the machine): 0.273781
+Pr(1 jobs in the machine): 0.19577
+Pr(2 jobs in the machine): 0.134072
+Pr(Response time < 30 seconds): 0.162
+Pr(Response time < 3 min): 0.624
+Pr(Inter-arrival time < 1 min): 0.626
+Pr(Service time > 1 min): 0.268

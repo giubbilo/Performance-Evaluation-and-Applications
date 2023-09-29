@@ -1,0 +1,19 @@
+Mean = 4.99491 4.99956 4.89246
+Moment 2 = 26.4755 161.873 155.844
+Moment 3 = 148.353 9564.12 9273.53
+Moment 4 = 875.753 761603 769226
+
+Variance = 1.52638 136.882 131.913
+Centered Moment 3 = 0.862566 7386.48 7220.65
+Centered Moment 4 = 7.57791 592764 608432
+
+Skewness = 0.457413 4.61238 4.76599
+Standardized Moment 4 = 3.25244 31.6351 34.9638
+
+Stardard Deviation = 1.23547 11.6997 11.4853
+Coefficient of Variation = 0.247345 2.34014 2.34756
+Excess Kurtosis = 0.252701 28.6376 31.9666
+
+Median = 4.89525 1.17105 1.1723
+First percentile (25) = 4.11335 0.45888 0.45715
+Third percentile (75) = 5.77525 2.9148 2.9049
