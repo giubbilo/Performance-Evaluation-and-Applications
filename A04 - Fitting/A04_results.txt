@@ -1,0 +1,19 @@
+Mean: 10.0608 9.8767
+Moment2: 126.168 479.094
+Moment3: 1959.57 81673
+Uniform a: 1.4094 -23.9558
+Uniform b: 18.7121 43.7092
+Exponential rate (lambda): 0.0993959 0.101248
+Erlang stages (k): 4 0
+Erlang rate (lambda): 0.397584 0
+Erlang distribution is NOT available for trace 2
+Weibull shape (k): 2.11799 0.547316
+Weibull scale (lambda): 11.3598 5.75773
+Pareto shape (alpha): 3.2488 2.12057
+Pareto scale (m): 6.964 5.21912
+Hyper-exponential parameters for Trace 1: 0.0993959 0.0993959 0.390239
+Hyper-exponential parameters for Trace 2: 0.0312204 0.179136 0.16237
+Hypo-exponential parameters for Trace 1: 0.198792 0.198792
+Hypo-exponential parameters for Trace 2: 7.4345 0.102646
+Hypo-exponential distribution is NOT available for Trace2 (CoV < 1)
+Hyper-exponential distribution is NOT available for Trace1 (CoV > 1)
