@@ -1,0 +1,15 @@
+Scenario 1: 
+Maximum Relative Error reached in 6400 Iterations
+Utilization in [0.702034, 0.70444], with 0.95 confidence. Relative Error: 0.00342118
+Resp. Time in [42.6829, 43.2197], with 0.95 confidence. Relative Error: 0.0124988
+Throughput in [0.105272, 0.105631], with 0.95 confidence. Relative Error: 0.00339683
+Average number of jobs in [4.5398, 4.6088], with 0.95 confidence. Relative Error: 0.0150829
+Variance of the response time in [1370.49, 1426.33], with 0.95 confidence. Relative Error: 0.0399276
+
+Scenario 2: 
+Maximum Relative Error reached in 2700 Iterations
+Utilization in [0.748845, 0.750699], with 0.95 confidence. Relative Error: 0.00247285
+Resp. Time in [19.1054, 19.284], with 0.95 confidence. Relative Error: 0.00930611
+Throughput in [0.0998541, 0.100098], with 0.95 confidence. Relative Error: 0.0024363
+Average number of jobs in [1.91314, 1.93453], with 0.95 confidence. Relative Error: 0.0111185
+Variance of the response time in [192.533, 200.369], with 0.95 confidence. Relative Error: 0.0398864
