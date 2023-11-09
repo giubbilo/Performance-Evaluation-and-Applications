@@ -1,0 +1,4 @@
+Winning probability: 19.0374%
+Average game duration: 5.69492 minutes (not considering 5 mins between every game)
+Throughput: 5.60917 games per hour
+Number of simulations: 935
