@@ -1,0 +1,16 @@
+M/M/1 - Case with 1 server
+Utilization: 0.64
+Probability of having exact 1 job in the system: 0.2304
+Probability of having less than 10 jobs in the system: 0.988471
+Average Queue Length: 1.13778
+Average Response Time: 0.0444444
+Probability that the response time > 0.5: 1.30073e-05
+Percentile 90 of response time distribution: 0.102337
+
+M/M/2 - Case with 2 servers
+Utilization: 1.44
+Average Utilization: 0.72
+Probability of having exact 1 job in the system: 0.234419
+Probability of having less than 10 jobs in the system: 0.956466
+Average Queue Length: 1.55003
+Average Response Time: 0.0332226
