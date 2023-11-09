@@ -1,0 +1,3 @@
+Average Power Consumption: 1.98477 Watt
+Utilization: 0.158384
+Throughput: 226.609 scans per day
