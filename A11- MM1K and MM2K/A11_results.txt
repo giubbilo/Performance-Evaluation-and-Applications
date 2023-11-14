@@ -1,0 +1,16 @@
+M/M/1/K - scenario
+Average Utilization: 0.875
+Loss probability: 0.001764
+Average Number of jobs in the system: 6.59252 (every second)
+Drop rate: 0.00440999 (every second)
+Average Response Time: 2.64167
+Average time spent in the queue: 2.29167
+
+M/M/2/K - scenario
+Utilization: 1.45833
+Average Utilization: 0.729167
+Loss probability: 1.27752e-05
+Average Number of jobs in the system: 3.11287 (every second)
+Drop rate: 5.323e-05 (every second)
+Average Response Time: 0.747099
+Average time spent in the queue: 0.397099
