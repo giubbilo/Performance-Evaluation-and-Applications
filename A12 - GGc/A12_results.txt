@@ -1,0 +1,9 @@
+M/G/1 - Scenario 1
+Utilization: 0.56
+Average Response Time: 0.245091
+Average number of jobs in the queue: 2.45091
+
+G/G/3 - Scenario 2
+Utilization: 0.896
+Average Response Time: 0.383562 (approx)
+Average number of jobs in the queue: 18.411 (approx)
