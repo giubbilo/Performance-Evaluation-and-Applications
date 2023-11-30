@@ -1,0 +1,8 @@
+Closed model - Scenario 1
+Visits: 1 10 4.67532 6.7013
+Demand: 10 0.2 0.0467532 0.0201039
+
+Open model - Scenario 2
+Visits: 8.10526 3.78947 5.43158
+Demands: 0.162105 0.0378947 0.0162947
+Throughput: 2.43158 1.13684 1.62947
