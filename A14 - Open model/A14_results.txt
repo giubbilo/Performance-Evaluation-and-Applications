@@ -1,0 +1,3 @@
+Throughput of the system: 5
+Average number of jobs in the system: 17.2157
+Average response time of the system: 3.44314
