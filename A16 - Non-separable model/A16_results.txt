@@ -1,0 +1,4 @@
+System throughput: 1.6572
+System response time: 121.3089
+Average number of customers of Network controller: 0.1808
+Average number of customers of SAN controller: 0.1870
