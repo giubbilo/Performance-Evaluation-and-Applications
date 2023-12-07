@@ -1,0 +1,7 @@
+3 classes - A B C
+2 stations - Production and Packaging
+
+Utilization per station: 0.783333 0.8
+Average number of jobs for each class: 3.53846 1.67308 2.40385
+Average response time for each type of product: 106.154 33.4615 57.6923
+Class-indipendent average system response time: 60.9231
