@@ -1,0 +1,8 @@
+System response time: 2.2552
+Write class response time: 2.4244
+Read class response time: 2.1730
+
+Utilization controller: 0.8974
+Utilization disk 1: 0.3890
+Utilization disk 2: 0.4153
+Utilization disk 3: 0.4331
